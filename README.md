@@ -21,7 +21,7 @@ The Blinkit Store wants to create comprehensive analysis of Blinkit's sales perf
 - Chart Type: Stacked Column Chart
 - Total Sales by Outlet Establishment:Evaluate how the age or type of outlet establishment influences total sales.
 - Chart Type: Line Chart
-- Dasboard Interaction <a href="https://github.com/ramyakothapally-spec/Data-Analysis-Dashboard/blob/main/blinkit%20dashboard%20image.jpg">View Dasboard</a>
+- Dasboard Interaction <a href="https://github.com/ramyakothapally-spec/Data-Analysis-Dashboard/blob/main/blinkit%20dasborad%20image.jpg">View Dasboard</a>
 
 ## Process
 - Verify data for any missing values and anomalies, and sort out the same.
@@ -30,4 +30,4 @@ The Blinkit Store wants to create comprehensive analysis of Blinkit's sales perf
 - Merge all pivot tables into one dashboard and apply slicer to make dynamic.
 
 ## Dashboard
-![Screenshot](https://github.com/ramyakothapally-spec/Data-Analysis-Dashboard/blob/main/blinkit%20dashboard%20image.jpg)
+![Screenshot](https://github.com/ramyakothapally-spec/Data-Analysis-Dashboard/blob/main/blinkit%20dasborad%20image.jpg)
