@@ -25,9 +25,9 @@ The Blinkit Store wants to create comprehensive analysis of Blinkit's sales perf
 
 ## Process
 - Verify data for any missing values and anomalies, and sort out the same.
-- Made sure data is consistent and clean with respect to data type, data format and vales used.
+- Made sure data is consistent and clean with respect to data type, data format and values used.
 - Created pivot tables according to the questions asked.
 - Merge all pivot tables into one dashboard and apply slicer to make dynamic.
 
 ## Dashboard
-- a < href="">
+![Screenshot](https://github.com/ramyakothapally-spec/Data-Analysis-Dashboard/blob/main/blinkit%20dashboard%20image.jpg)
