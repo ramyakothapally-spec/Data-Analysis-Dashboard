@@ -31,3 +31,22 @@ The Blinkit Store wants to create comprehensive analysis of Blinkit's sales perf
 
 ## Dashboard
 ![Screenshot](https://github.com/ramyakothapally-spec/Data-Analysis-Dashboard/blob/main/blinkit%20dasborad%20image.jpg)
+
+## Project Insights
+- Total sales reached $1.2M, with Tier 3 locations contributing the highest share at $472.1K, followed by Tier 2 and Tier 1.
+- Medium-sized outlets led revenue generation with $507.9K, followed by small outlets at $444.8K.
+- Low-fat products accounted for 65% of total sales ($776.3K), showcasing a preference for healthier options.
+- Top-selling product categories were fruits and vegetables, followed by snacks and household goods.
+## Final Conclusions:
+- Balanced market penetration across locations and outlet sizes reflects strong operational efficiency and customer engagement.
+- Tier 3 outlets and medium-sized stores are key revenue drivers, making them ideal for scaling efforts.
+- The consumer preference for low-fat and essential products indicates potential for expanding these offerings.
+- Focused investment in top-performing categories and locations could drive sustained growth.
+
+
+
+
+
+
+
+
